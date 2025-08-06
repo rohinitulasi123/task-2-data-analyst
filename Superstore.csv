@@ -1,0 +1,6 @@
+Order Date,Region,Category,Sub-Category,Sales,Profit,Discount
+01-01-2023,West,Furniture,Chairs,500,50,0.1
+02-01-2023,East,Office Supplies,Binders,300,70,0.2
+05-01-2023,Central,Technology,Phones,800,200,0
+08-01-2023,South,Furniture,Tables,600,-100,0.3
+10-01-2023,West,Technology,Accessories,200,30,0.1
